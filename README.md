@@ -3,6 +3,8 @@
 ![Maintenance](https://img.shields.io/maintenance/yes/2018.svg?style=flat-square)
 [![GitHub last commit](https://img.shields.io/github/last-commit/olafhartong/unfetter-discover.svg?style=flat-square)](https://github.com/olafhartong/unfetter-discover/commit/master)
 
+Run [Unfetter-Discover](https://github.com/unfetter-discover/unfetter) from a disposable VM, no need to install docker on your workstation, additionally easier backup when running a project.
+
 ### Prerequisites
 
 * Vagrant
