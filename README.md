@@ -7,8 +7,8 @@ Run [Unfetter-Discover](https://github.com/unfetter-discover/unfetter) from a di
 
 ### Prerequisites
 
-* Vagrant
-* Virtualbox or VMWare Workstation / Fusion
+* [Vagrant](https://www.vagrantup.com)
+* [Virtualbox](https://www.virtualbox.org) or [VMWare Workstation / Fusion](https://www.vmware.com/products/personal-desktop-virtualization.html)
 
 ## Use
 
