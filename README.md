@@ -5,8 +5,8 @@
 
 ### Prerequisites
 
-Vagrant
-Virtualbox or VMWare Workstation / Fusion
+* Vagrant
+* Virtualbox or VMWare Workstation / Fusion
 
 ## Use
 
